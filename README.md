@@ -1,7 +1,9 @@
 # lesson-05-activity-time-microservice-stanslov7
 
 You Do: A Simple Time Server
-Now, I'd like you to complete a miniature assignment. I'd like for you to create a microservice that provides the current Unix time or epoch time. If you're not familiar with epoch time, you can see the current epoch time here.
+Now, I'd like you to complete a miniature assignment. I'd like for you to create a microservice that provides the current Unix time or epoch time. If you're not familiar with epoch time, you can see the current epoch time here;
+(Link to Epoch & Unix Timestamp Conversion Tools) - EpochConverter: https://www.epochconverter.com/
+
 
 Create your microservice in Flask and deploy it to Heroku. When you're done you should be able to visit http://myapp.herokuapp.com/ (for example), and the resulting page will display something like: 1525201581.
 
