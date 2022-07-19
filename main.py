@@ -10,6 +10,7 @@ as Link to the repository for the activity itself.
 """
 import os
 import time
+
 from flask import Flask
 
 # Usage: when running server via Bash command: 'python main.py' ,
